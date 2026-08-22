@@ -1,0 +1,17 @@
+{
+  "name": "@hexlet/code",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=14"
+  },
+  "scripts": {
+    "test": "npx jest"
+  },
+  "author": "Hexlet",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
