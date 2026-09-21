@@ -2,6 +2,10 @@
 
 root: true
 
+settings:
+  jest:
+    version: "29.0"
+
 plugins:
   - jest
 
